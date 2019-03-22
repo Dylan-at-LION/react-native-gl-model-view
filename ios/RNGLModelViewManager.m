@@ -5,11 +5,7 @@
 //  RNGLModelViewManager.m
 //
 
-#if __has_include("RCTBridge.h")
-#import "RCTBridge.h"
-#else
 #import <React/RCTBridge.h>
-#endif
 
 #import "RNGLModelViewManager.h"
 #import <UIKit/UIKit.h>
